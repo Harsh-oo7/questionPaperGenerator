@@ -1,4 +1,4 @@
-# ecovia
+# Question Paper Generator
 
 ## Setup
 
